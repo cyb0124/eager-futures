@@ -1,0 +1,10 @@
+[package]
+name = "eager-futures"
+version = "0.0.1"
+authors = ["Yibo Cao <cyb@ieee.org>"]
+edition = "2018"
+license = "BSD-2-Clause"
+repository = "http://github.com/cyb0124/eager-futures"
+categories = ["asynchronous"]
+keywords = ["async", "future", "futures", "reactor", "proactor"]
+description = "Completion-handler based futures for single-threaded asynchronous programming (reactor pattern)"
